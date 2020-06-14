@@ -12,7 +12,6 @@
   },
   "author": "",
   "license": "MIT",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/mayneyao/gatsby-source-notion-database/issues"
   },
