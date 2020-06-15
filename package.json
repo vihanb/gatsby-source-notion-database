@@ -1,6 +1,6 @@
 {
   "name": "@vihanb/gatsby-source-notion-database",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Load data from Notion's database",
   "main": "index.js",
   "scripts": {
